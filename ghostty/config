@@ -1,0 +1,5 @@
+# Key Bindings
+keybind = ctrl+b>c=clear_screen
+keybind = ctrl+b>t=new_tab
+keybind = ctrl+b>n=next_tab
+keybind = ctrl+b>p=previous_tab
